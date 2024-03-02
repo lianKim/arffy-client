@@ -1,23 +1,33 @@
-# <img src="https://raw.githubusercontent.com/lianKim/affy-client/main/src/assets/logo/logo_letter.svg" alt="arffy" width="120px" height="120px">
+# <img src="https://github.com/lianKim/arffy-client/assets/97217822/f8af3b48-2282-4080-82d2-83ee2bb19a21" alt="arffy" width="120px">
+
 [arffy.store](https://arffy.store)
+
 20세기 유럽의 빈티지 조명과 소품을 판매하는 브랜드 arffy를 위한 온라인 스토어입니다. 
+
+</br>
 
 </br>
 
 ![preview](https://github.com/lianKim/arffy-client/assets/97217822/a67e4669-0d45-47fa-a882-a4fbc88cebcd)
 
-[!tldr] `효율적인 데이터 페칭`: React-Query의 여러가지 옵션 활용
-[!tldr] `세분화된 에러 핸들링`: 커스텀 에러와 두 가지의 에러 바운더리 사용
-[!tldr] `일관된 디자인 언어와 사용자 경험`: Figma로 디자인 시스템 구축
-[!tldr] `재사용성 높은 컴포넌트`: 디자인 시스템이 적용된 UI를 Storybook으로 단위 테스트
+✔️ `효율적인 데이터 페칭`: React-Query의 여러가지 옵션 활용
 
-***
+✔️ `세분화된 에러 핸들링`: 커스텀 에러와 두 가지의 에러 바운더리 사용
+
+✔️ `일관된 디자인 언어와 사용자 경험`: Figma로 디자인 시스템 구축
+
+✔️ `재사용성 높은 컴포넌트`: 디자인 시스템이 적용된 UI를 Storybook으로 단위 테스트
+
+--
 
 </br>
+
 </br>
 
 ## 📌 프로젝트 기간
-2022.12.05 ~ 2023.01.22
+2023.05 ~ 
+
+</br>
 
 </br>
 
@@ -26,7 +36,9 @@
 [김리안](https://github.com/lianKim)
   
 ### BackEnd
-[한규빈](https://github.com/rbsks) | [김이안](https://github.com/kormeian)
+[한규빈](https://github.com/rbsks)  |  [김이안](https://github.com/kormeian)
+
+</br>
 
 </br>
 
@@ -49,6 +61,9 @@
 </div>
 
 </br>
+
+</br>
+
 
 ## 📌 구현기능
 ### User
