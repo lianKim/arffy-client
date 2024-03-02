@@ -1,4 +1,4 @@
-# <img src="https://github.com/lianKim/arffy-client/assets/97217822/f8af3b48-2282-4080-82d2-83ee2bb19a21" alt="arffy" width="100px">
+# <img src="https://github.com/lianKim/arffy-client/assets/97217822/ec41434c-f7cc-48eb-bd6d-6c85f88e752b" alt="arffy" width="100px">
 
 20세기 유럽의 빈티지 조명과 소품을 판매하는 브랜드 arffy를 위한 온라인 스토어입니다. 
 
@@ -26,7 +26,8 @@
 
 </br>
 
-## `프로젝트 기간`
+<h2>$\color{#E04C1C}프로젝트\ 기간$</h2>
+
 2023.05 ~ 
 
 </br>
@@ -35,11 +36,14 @@
 
 </br>
 
-## `팀원 소개`
-### FrontEnd
+<h2>$\color{#E04C1C}팀원\ 소개$</h2>
+
+<h3>$\color{#A7A7A7}FrontEnd$</h3>
+
 [김리안](https://github.com/lianKim)
   
-### BackEnd
+<h3>$\color{#A7A7A7}BackEnd$</h3>
+
 [한규빈](https://github.com/rbsks)  |  [김이안](https://github.com/kormeian)
 
 </br>
@@ -48,8 +52,10 @@
 
 </br>
 
-## `기술 스택`
-### FrontEnd
+<h2>$\color{#E04C1C}기술\ 스택$</h2>
+
+<h3>$\color{#A7A7A7}FrontEnd$</h3>
+
 <div>
   <img src="https://img.shields.io/badge/Typescript-3178C6?&style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=react&logoColor=white">
@@ -72,9 +78,10 @@
 
 </br>
 
+<h2>$\color{#E04C1C}구현\ 기능$</h2>
 
-## `구현 기능`
-### User
+<h3>$\color{#A7A7A7}User$</h3>
+
 - 주문 및 결제
 - 소셜 로그인/로그아웃/탈퇴
 - 주소 검색 및 회원정보 수정
@@ -83,7 +90,8 @@
 - Q&A 질문 등록/삭제/조회
 - 캐러셀 형식의 이미지 업로더
 
-### Admin
+<h3>$\color{#A7A7A7}Admin$</h3>
+
 - 상품 등록/수정/삭제/조회
 - 상품 품절 처리/복구
 - 반품 처리
@@ -98,7 +106,8 @@
 
 </br>
 
-## `링크`
+<h2>$\color{#E04C1C}링크$</h2>
+
 #### 🔗 [Figma 디자인 시스템](https://www.figma.com/file/AUkFFhRZln5S5PYp9zgvXz/Gokkan-UI?node-id=0%3A1&t=JhSvLc7xt2WzzCmV-1)
 #### 🔗 [Swagger API 명세서](https://api.arffy.store/swagger-ui/index.html#/)
 #### 🔗 [Postman API 명세서](https://winter-shadow-67431.postman.co/workspace/arffy~9c452189-ddd1-419e-b241-e309e4fd56bd/collection/14010261-0a8230ad-8fdc-448e-8adb-9424464c3c1b)
