@@ -1,4 +1,4 @@
-# <img src="https://github.com/lianKim/arffy-client/assets/97217822/f8af3b48-2282-4080-82d2-83ee2bb19a21" alt="arffy" width="100px">
+# <img src="https://github.com/lianKim/arffy-client/assets/97217822/f8af3b48-2282-4080-82d2-83ee2bb19a21" alt="arffy" width="92px">
 
 20세기 유럽의 빈티지 조명과 소품을 판매하는 브랜드 arffy를 위한 온라인 스토어입니다. 
 
@@ -38,11 +38,11 @@
 
 <h2>$\textbf{\sf{\color{#E04C1C}팀원\ 소개}}$</h2>
 
-<h3>$\textbf{\sf{\color{#A7A7A7}프론트엔드}}$</h3>
+<h3>$\textbf{\sf{\color{#A7A7A7}[프론트엔드]}}$</h3>
 
 [김리안](https://github.com/lianKim)
   
-<h3>$\textbf{\sf{\color{#A7A7A7}백엔드}}$</h3>
+<h3>$\textbf{\sf{\color{#A7A7A7}[백엔드]}}$</h3>
 
 [한규빈](https://github.com/rbsks)ㅤ [김이안](https://github.com/kormeian)
 
@@ -78,7 +78,7 @@
 
 <h2>$\textbf{\sf{\color{#E04C1C}구현\ 기능}}$</h2>
 
-<h3>$\textbf{\sf{\color{#A7A7A7}사용자}}$</h3>
+<h3>$\textbf{\sf{\color{#A7A7A7}[사용자]}}$</h3>
 
 ▪️ 주문 및 결제
 
@@ -94,7 +94,7 @@
 
 ▪️ 캐러셀 형식의 이미지 업로더
 
-<h3>$\textbf{\sf{\color{#A7A7A7}관리자}}$</h3>
+<h3>$\textbf{\sf{\color{#A7A7A7}[관리자]}}$</h3>
 
 ▪️ 상품 등록/수정/삭제/조회
 
