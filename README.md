@@ -12,13 +12,27 @@
 
 </br>
 
-▪️ **효율적인 데이터 페칭**: React-Query의 여러가지 옵션 활용
+<h3><b>$\textbf{\sf{\color{#A7A7A7}[효율적인 데이터 페칭]}}$</b></h3>
 
-▪️ **세분화된 에러 핸들링**: 커스텀 에러와 두 가지의 에러 바운더리 사용
+캐싱, 페이징, 쿼리 무효화 등 React-Query의 여러가지 기능 활용
 
-▪️ **일관된 디자인 언어와 사용자 경험**: Figma로 디자인 시스템 구축
+</br>
 
-▪️ **재사용성 높은 컴포넌트**: 디자인 시스템이 적용된 UI를 Storybook으로 단위 테스트
+<h3><b>$\textbf{\sf{\color{#A7A7A7}[세분화된 에러 핸들링]}}$</b></h3>
+
+커스텀 에러 작성 및 API / Global 두 개로 분리된 에러 바운더리 사용
+
+</br>
+
+<h3><b>$\textbf{\sf{\color{#A7A7A7}[일관된 디자인 언어와 사용자 경험]}}$</b></h3>
+
+Figma로 디자인 시스템 구축하여 통일성 유지
+
+</br>
+
+<h3><b>$\textbf{\sf{\color{#A7A7A7}[재사용성 높은 컴포넌트]}}$</b></h3>
+
+Storybook으로 디자인 시스템이 적용된 UI 컴포넌트 단위 테스트
 
 </br>
 
@@ -122,7 +136,7 @@
 
 <h2>$\textbf{\sf{\color{#E04C1C}링크}}$</h2>
 
-#### [Figma 디자인 시스템](https://www.figma.com/file/AUkFFhRZln5S5PYp9zgvXz/Gokkan-UI?node-id=0%3A1&t=JhSvLc7xt2WzzCmV-1)
+#### [Figma 디자인 시스템](https://www.figma.com/file/rTmSZNrxw7EOCMjWD7LZff/arffy-design-system?type=design&node-id=1%3A2&mode=design&t=ARsgtFK7xzwUvLeP-1)
 #### [Swagger API 명세서](https://api.arffy.store/swagger-ui/index.html#/)
 #### [Postman API 명세서](https://winter-shadow-67431.postman.co/workspace/arffy~9c452189-ddd1-419e-b241-e309e4fd56bd/collection/14010261-0a8230ad-8fdc-448e-8adb-9424464c3c1b)
 
