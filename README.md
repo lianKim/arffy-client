@@ -26,7 +26,7 @@
 
 </br>
 
-<h2>$\emph{\sf{\color{#E04C1C}개발\ 기간}}$</h2>
+<h2>$\textbf{\sf{\color{#E04C1C}개발\ 기간}}$</h2>
 
 2023.05 ~ 
 
@@ -36,13 +36,13 @@
 
 </br>
 
-<h2>$\emph{\sf{\color{#E04C1C}팀원\ 소개}}$</h2>
+<h2>$\textbf{\sf{\color{#E04C1C}팀원\ 소개}}$</h2>
 
-<h3>$\emph{\sf{\color{#A7A7A7}프론트엔드}}$</h3>
+<h3>$\textbf{\sf{\color{#A7A7A7}프론트엔드}}$</h3>
 
 [김리안](https://github.com/lianKim)
   
-<h3>$\emph{\sf{\color{#A7A7A7}백엔드}}$</h3>
+<h3>$\textbf{\sf{\color{#A7A7A7}백엔드}}$</h3>
 
 [한규빈](https://github.com/rbsks)ㅤ [김이안](https://github.com/kormeian)
 
@@ -52,7 +52,7 @@
 
 </br>
 
-<h2>$\emph{\sf{\color{#E04C1C}기술\ 스택}}$</h2>
+<h2>$\textbf{\sf{\color{#E04C1C}기술\ 스택}}$</h2>
 
 <div>
   <img src="https://img.shields.io/badge/Typescript-3178C6?&style=flat-square&logo=typescript&logoColor=white">
@@ -76,27 +76,39 @@
 
 </br>
 
-<h2>$\emph{\sf{\color{#E04C1C}구현\ 기능}}$</h2>
+<h2>$\textbf{\sf{\color{#E04C1C}구현\ 기능}}$</h2>
 
-<h3>$\emph{\sf{\color{#A7A7A7}사용자}}$</h3>
+<h3>$\textbf{\sf{\color{#A7A7A7}사용자}}$</h3>
 
-- 주문 및 결제
-- 소셜 로그인/로그아웃/탈퇴
-- 주소 검색 및 회원정보 수정
-- 장바구니 추가/삭제/조회
-- 주문내역 및 배송 상태 조회
-- Q&A 질문 등록/삭제/조회
-- 캐러셀 형식의 이미지 업로더
+▪️ 주문 및 결제
 
-<h3>$\emph{\sf{\color{#A7A7A7}관리자}}$</h3>
+▪️ 소셜 로그인/로그아웃/탈퇴
 
-- 상품 등록/수정/삭제/조회
-- 상품 품절 처리/복구
-- 반품 처리
-- 운송장 번호 등록/수정
-- 주문내역 메일 발송 (html table 작성)
-- Q&A 답변 등록/삭제/조회
-- 공지사항 등록/수정/삭제/조회
+▪️ 주소 검색 및 회원정보 수정
+
+▪️ 장바구니 추가/삭제/조회
+
+▪️ 주문내역 및 배송 상태 조회
+
+▪️ Q&A 질문 등록/삭제/조회
+
+▪️ 캐러셀 형식의 이미지 업로더
+
+<h3>$\textbf{\sf{\color{#A7A7A7}관리자}}$</h3>
+
+▪️ 상품 등록/수정/삭제/조회
+
+▪️ 상품 품절 처리/복구
+
+▪️ 반품 처리
+
+▪️ 운송장 번호 등록/수정
+
+▪️ 주문내역 메일 발송 (html table 작성)
+
+▪️ Q&A 답변 등록/삭제/조회
+
+▪️ 공지사항 등록/수정/삭제/조회
 
 </br>
 
@@ -104,7 +116,7 @@
 
 </br>
 
-<h2>$\emph{\sf{\color{#E04C1C}링크}}$</h2>
+<h2>$\textbf{\sf{\color{#E04C1C}링크}}$</h2>
 
 #### [Figma 디자인 시스템](https://www.figma.com/file/AUkFFhRZln5S5PYp9zgvXz/Gokkan-UI?node-id=0%3A1&t=JhSvLc7xt2WzzCmV-1)
 #### [Swagger API 명세서](https://api.arffy.store/swagger-ui/index.html#/)
