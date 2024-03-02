@@ -41,10 +41,12 @@
 <h3>$\textbf{\sf{\color{#A7A7A7}[프론트엔드]}}$</h3>
 
 [김리안](https://github.com/lianKim)
+
+</br>
   
 <h3>$\textbf{\sf{\color{#A7A7A7}[백엔드]}}$</h3>
 
-[한규빈](https://github.com/rbsks)ㅤ [김이안](https://github.com/kormeian)
+[한규빈](https://github.com/rbsks)ㅤ[김이안](https://github.com/kormeian)
 
 </br>
 
@@ -94,6 +96,8 @@
 
 ▪️ 캐러셀 형식의 이미지 업로더
 
+</br>
+
 <h3>$\textbf{\sf{\color{#A7A7A7}[관리자]}}$</h3>
 
 ▪️ 상품 등록/수정/삭제/조회
@@ -122,4 +126,3 @@
 #### [Swagger API 명세서](https://api.arffy.store/swagger-ui/index.html#/)
 #### [Postman API 명세서](https://winter-shadow-67431.postman.co/workspace/arffy~9c452189-ddd1-419e-b241-e309e4fd56bd/collection/14010261-0a8230ad-8fdc-448e-8adb-9424464c3c1b)
 
-</br>
