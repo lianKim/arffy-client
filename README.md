@@ -1,6 +1,78 @@
-<<<<<<< HEAD
-# client
-=======
-# arffy-client
-20세기 빈티지 조명 및 소품 판매 브랜드 arffy의 온라인 스토어
->>>>>>> 412409aca421a8454c0eb9b4ff564735f2e23df0
+# <img src="https://raw.githubusercontent.com/lianKim/affy-client/main/src/assets/logo/logo_letter.svg" alt="arffy" width="120px" height="120px">
+[arffy.store](https://arffy.store)
+20세기 유럽의 빈티지 조명과 소품을 판매하는 브랜드 arffy를 위한 온라인 스토어입니다. 
+
+</br>
+
+![preview](https://github.com/lianKim/arffy-client/assets/97217822/a67e4669-0d45-47fa-a882-a4fbc88cebcd)
+
+[!tldr] `효율적인 데이터 페칭`: React-Query의 여러가지 옵션 활용
+[!tldr] `세분화된 에러 핸들링`: 커스텀 에러와 두 가지의 에러 바운더리 사용
+[!tldr] `일관된 디자인 언어와 사용자 경험`: Figma로 디자인 시스템 구축
+[!tldr] `재사용성 높은 컴포넌트`: 디자인 시스템이 적용된 UI를 Storybook으로 단위 테스트
+
+***
+
+</br>
+</br>
+
+## 📌 프로젝트 기간
+2022.12.05 ~ 2023.01.22
+
+</br>
+
+## 📌 팀원 소개
+### FrontEnd
+[김리안](https://github.com/lianKim)
+  
+### BackEnd
+[한규빈](https://github.com/rbsks) | [김이안](https://github.com/kormeian)
+
+</br>
+
+## 📌 기술 스택
+### FrontEnd
+<div>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?&style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/React Query-FF4154?&style=flat-square&logo=reactquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Jotai-lightgrey?&style=flat-square&logo=jotai&logoColor=white">
+  <img src="https://img.shields.io/badge/Styled Component-DB7093?&style=flat-square&logo=styledcomponents&logoColor=white">
+  <img src="https://img.shields.io/badge/Storybook-FF4785?&style=flat-square&logo=storybook&logoColor=white">
+  <img src="https://img.shields.io/badge/Jest-C21325?&style=flat-square&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?&style=flat-square&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?&style=flat-square&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?&style=flat-square&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?&style=flat-square&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-sqaure&logo=swagger&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=slack&logoColor=white">
+</div>
+
+</br>
+
+## 📌 구현기능
+### User
+- 주문 및 결제
+- 소셜 로그인/로그아웃/탈퇴
+- 주소 검색 및 회원정보 수정
+- 장바구니 추가/삭제/조회
+- 주문내역 및 배송 상태 조회
+- Q&A 질문 등록/삭제/조회
+- 캐러셀 형식의 이미지 업로더
+
+### Admin
+- 상품 등록/수정/삭제/조회
+- 상품 품절 처리/복구
+- 반품 처리
+- 운송장 번호 등록/수정
+- 주문내역 메일 발송 (html table 작성)
+- Q&A 답변 등록/삭제/조회
+- 공지사항 등록/수정/삭제/조회
+
+</br>
+
+## 📌 링크
+#### 🎨 [Figma 디자인 시스템](https://www.figma.com/file/AUkFFhRZln5S5PYp9zgvXz/Gokkan-UI?node-id=0%3A1&t=JhSvLc7xt2WzzCmV-1)
+#### 📗 [Swagger API 명세서](https://api.arffy.store/swagger-ui/index.html#/)
+#### 📙 [Postman API 명세서](https://winter-shadow-67431.postman.co/workspace/arffy~9c452189-ddd1-419e-b241-e309e4fd56bd/collection/14010261-0a8230ad-8fdc-448e-8adb-9424464c3c1b)
+
