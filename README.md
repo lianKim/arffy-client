@@ -26,7 +26,7 @@
 
 </br>
 
-<h2>$\bf{\sf{\color{#E04C1C}개발\ 기간}}$</h2>
+<h2>$\emph{\sf{\color{#E04C1C}개발\ 기간}}$</h2>
 
 2023.05 ~ 
 
@@ -36,23 +36,23 @@
 
 </br>
 
-<h2>$\bf{\sf{\color{#E04C1C}팀원\ 소개}}$</h2>
+<h2>$\emph{\sf{\color{#E04C1C}팀원\ 소개}}$</h2>
 
-<h3>$\bf{\sf{\color{#A7A7A7}프론트엔드}}$</h3>
+<h3>$\emph{\sf{\color{#A7A7A7}프론트엔드}}$</h3>
 
-#### [김리안](https://github.com/lianKim)
+[김리안](https://github.com/lianKim)
   
-<h3>$\bf{\sf{\color{#A7A7A7}백엔드}}$</h3>
+<h3>$\emph{\sf{\color{#A7A7A7}백엔드}}$</h3>
 
-#### [한규빈](https://github.com/rbsks)  |  [김이안](https://github.com/kormeian)
-
-</br>
+[한규빈](https://github.com/rbsks)ㅤ [김이안](https://github.com/kormeian)
 
 </br>
 
 </br>
 
-<h2>$\bf{\sf{\color{#E04C1C}기술\ 스택}}$</h2>
+</br>
+
+<h2>$\emph{\sf{\color{#E04C1C}기술\ 스택}}$</h2>
 
 <div>
   <img src="https://img.shields.io/badge/Typescript-3178C6?&style=flat-square&logo=typescript&logoColor=white">
@@ -76,9 +76,9 @@
 
 </br>
 
-<h2>$\bf{\sf{\color{#E04C1C}구현\ 기능}}$</h2>
+<h2>$\emph{\sf{\color{#E04C1C}구현\ 기능}}$</h2>
 
-<h3>$\bf{\sf{\color{#A7A7A7}사용자}}$</h3>
+<h3>$\emph{\sf{\color{#A7A7A7}사용자}}$</h3>
 
 - 주문 및 결제
 - 소셜 로그인/로그아웃/탈퇴
@@ -88,7 +88,7 @@
 - Q&A 질문 등록/삭제/조회
 - 캐러셀 형식의 이미지 업로더
 
-<h3>$\bf{\sf{\color{#A7A7A7}관리자}}$</h3>
+<h3>$\emph{\sf{\color{#A7A7A7}관리자}}$</h3>
 
 - 상품 등록/수정/삭제/조회
 - 상품 품절 처리/복구
@@ -104,7 +104,7 @@
 
 </br>
 
-<h2>$\bf{\sf{\color{#E04C1C}링크}}$</h2>
+<h2>$\emph{\sf{\color{#E04C1C}링크}}$</h2>
 
 #### [Figma 디자인 시스템](https://www.figma.com/file/AUkFFhRZln5S5PYp9zgvXz/Gokkan-UI?node-id=0%3A1&t=JhSvLc7xt2WzzCmV-1)
 #### [Swagger API 명세서](https://api.arffy.store/swagger-ui/index.html#/)
