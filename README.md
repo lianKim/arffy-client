@@ -10,28 +10,32 @@
 
 ![preview](https://github.com/lianKim/arffy-client/assets/97217822/a67e4669-0d45-47fa-a882-a4fbc88cebcd)
 
-📌 `효율적인 데이터 페칭`: React-Query의 여러가지 옵션 활용
+</br>
 
-📌 `세분화된 에러 핸들링`: 커스텀 에러와 두 가지의 에러 바운더리 사용
+🔸 **효율적인 데이터 페칭**: React-Query의 여러가지 옵션 활용
 
-📌 `일관된 디자인 언어와 사용자 경험`: Figma로 디자인 시스템 구축
+🔸 **세분화된 에러 핸들링**: 커스텀 에러와 두 가지의 에러 바운더리 사용
 
-📌 `재사용성 높은 컴포넌트`: 디자인 시스템이 적용된 UI를 Storybook으로 단위 테스트
+🔸 **일관된 디자인 언어와 사용자 경험**: Figma로 디자인 시스템 구축
 
----
+🔸 **재사용성 높은 컴포넌트**: 디자인 시스템이 적용된 UI를 Storybook으로 단위 테스트
 
 </br>
 
 </br>
 
-## 프로젝트 기간
+</br>
+
+## `프로젝트 기간`
 2023.05 ~ 
 
 </br>
 
 </br>
 
-## 팀원 소개
+</br>
+
+## `팀원 소개`
 ### FrontEnd
 [김리안](https://github.com/lianKim)
   
@@ -42,7 +46,9 @@
 
 </br>
 
-## 기술 스택
+</br>
+
+## `기술 스택`
 ### FrontEnd
 <div>
   <img src="https://img.shields.io/badge/Typescript-3178C6?&style=flat-square&logo=typescript&logoColor=white">
@@ -64,8 +70,10 @@
 
 </br>
 
+</br>
 
-## 구현 기능
+
+## `구현 기능`
 ### User
 - 주문 및 결제
 - 소셜 로그인/로그아웃/탈퇴
@@ -88,9 +96,11 @@
 
 </br>
 
-## 링크
-#### 🎨 [Figma 디자인 시스템](https://www.figma.com/file/AUkFFhRZln5S5PYp9zgvXz/Gokkan-UI?node-id=0%3A1&t=JhSvLc7xt2WzzCmV-1)
-#### 📗 [Swagger API 명세서](https://api.arffy.store/swagger-ui/index.html#/)
-#### 📙 [Postman API 명세서](https://winter-shadow-67431.postman.co/workspace/arffy~9c452189-ddd1-419e-b241-e309e4fd56bd/collection/14010261-0a8230ad-8fdc-448e-8adb-9424464c3c1b)
+</br>
+
+## `링크`
+#### 🔗 [Figma 디자인 시스템](https://www.figma.com/file/AUkFFhRZln5S5PYp9zgvXz/Gokkan-UI?node-id=0%3A1&t=JhSvLc7xt2WzzCmV-1)
+#### 🔗 [Swagger API 명세서](https://api.arffy.store/swagger-ui/index.html#/)
+#### 🔗 [Postman API 명세서](https://winter-shadow-67431.postman.co/workspace/arffy~9c452189-ddd1-419e-b241-e309e4fd56bd/collection/14010261-0a8230ad-8fdc-448e-8adb-9424464c3c1b)
 
 </br>
