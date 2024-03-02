@@ -12,25 +12,25 @@
 
 </br>
 
-<h3><b>$\textbf{\sf{\color{#A7A7A7}[효율적인 데이터 페칭]}}$</b></h3>
+<h3>$\textbf{\sf{\color{#707070}[효율적인 데이터 페칭]}}$</h3>
 
 캐싱, 페이징, 쿼리 무효화 등 React-Query의 여러가지 기능 활용
 
 </br>
 
-<h3><b>$\textbf{\sf{\color{#A7A7A7}[세분화된 에러 핸들링]}}$</b></h3>
+<h3>$\textbf{\sf{\color{#707070}[세분화된 에러 핸들링]}}$</h3>
 
 커스텀 에러 작성 및 API / Global 두 개로 분리된 에러 바운더리 사용
 
 </br>
 
-<h3><b>$\textbf{\sf{\color{#A7A7A7}[일관된 디자인 언어와 사용자 경험]}}$</b></h3>
+<h3>$\textbf{\sf{\color{#707070}[일관된 디자인 언어와 사용자 경험]}}$</h3>
 
 Figma로 디자인 시스템 구축하여 통일성 유지
 
 </br>
 
-<h3><b>$\textbf{\sf{\color{#A7A7A7}[재사용성 높은 컴포넌트]}}$</b></h3>
+<h3>$\textbf{\sf{\color{#707070}[재사용성 높은 컴포넌트]}}$</h3>
 
 Storybook으로 디자인 시스템이 적용된 UI 컴포넌트 단위 테스트
 
@@ -52,13 +52,13 @@ Storybook으로 디자인 시스템이 적용된 UI 컴포넌트 단위 테스�
 
 <h2>$\textbf{\sf{\color{#E04C1C}팀원\ 소개}}$</h2>
 
-<h3>$\textbf{\sf{\color{#A7A7A7}[프론트엔드]}}$</h3>
+<h3>$\textbf{\sf{\color{#707070}[프론트엔드]}}$</h3>
 
 [김리안](https://github.com/lianKim)
 
 </br>
   
-<h3>$\textbf{\sf{\color{#A7A7A7}[백엔드]}}$</h3>
+<h3>$\textbf{\sf{\color{#707070}[백엔드]}}$</h3>
 
 [한규빈](https://github.com/rbsks)ㅤ[김이안](https://github.com/kormeian)
 
@@ -94,7 +94,7 @@ Storybook으로 디자인 시스템이 적용된 UI 컴포넌트 단위 테스�
 
 <h2>$\textbf{\sf{\color{#E04C1C}구현\ 기능}}$</h2>
 
-<h3>$\textbf{\sf{\color{#A7A7A7}[사용자]}}$</h3>
+<h3>$\textbf{\sf{\color{#707070}[사용자]}}$</h3>
 
 ▪️ 주문 및 결제
 
@@ -112,7 +112,7 @@ Storybook으로 디자인 시스템이 적용된 UI 컴포넌트 단위 테스�
 
 </br>
 
-<h3>$\textbf{\sf{\color{#A7A7A7}[관리자]}}$</h3>
+<h3>$\textbf{\sf{\color{#707070}[관리자]}}$</h3>
 
 ▪️ 상품 등록/수정/삭제/조회
 
